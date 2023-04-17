@@ -1,0 +1,77 @@
+[
+    {
+        "name": "iphone 15 pro max",
+        "price" : 154,
+        "featured": true,
+        "company": "Apple"
+    },
+    {
+        "name": "Xiaomi 13 Ultra",
+        "price" : 84,
+        "featured": true,
+        "company": "MI"
+    }
+    ,
+    {
+        "name": "Dell Inspiron 15 3512",
+        "price" : 70000,
+        "featured": true,
+        "company": "Dell"
+    },
+    {
+        "name": "Dell Inspiron 15 3512",
+        "price" : 70000,
+        "featured": true,
+        "company": "Movies"
+    },
+    {
+        "name": "Alienware Dell",
+        "price" : 120000,
+        "featured": true,
+        "company": "Dell"
+    },
+    {
+        "name": "HP OMEN",
+        "price" : 130000,
+        "featured": true,
+        "company": "HP"
+    },
+    {
+        "name": "Shashank Redemption",
+        "price" : 1300,
+        "featured": true,
+        "company": "Movies"
+    },
+    {
+        "name": "Demon Slayer",
+        "price" : 13000,
+        "feature": true,
+        "company": "Netflix"
+    },
+    {
+        "name": "Iqoo7 LEgend",
+        "price" : 40000,
+        "featured": true,
+        "company": "iQoo"
+    },
+    {
+        "name": "KIA Ultron",
+        "price" : 400000,
+        "featured": true,
+        "company": "KIA"
+    },
+    {
+        "name": "Toyoto Supra",
+        "price" : 20000000,
+        "featured": true,
+        "company": "Toyoto"
+    },
+    {
+        "name": "Samsung 13 Ultra",
+        "price" : 120000,
+        "featured": true,
+        "company": "Samsung"
+    }
+
+
+]
